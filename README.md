@@ -1,4 +1,4 @@
-# Hotel RS
+# Hotel Recommendation System
 
 Hotel RS is an autoencoder-based hotel recommendation system trained on the TripAdvisor dataset. The system aims to provide personalized hotel recommendations to users.
 
